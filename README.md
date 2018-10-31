@@ -1,2 +1,2 @@
-# hamigithub.github.io
+# quanlq.github.io
 主页
